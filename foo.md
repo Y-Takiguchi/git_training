@@ -1,1 +1,3 @@
-git test
+<?php
+	echo "hello php";
+?>
