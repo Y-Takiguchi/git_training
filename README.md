@@ -10,3 +10,5 @@ foo
  
 bar and BAZ
  TEST
+
+arakawa
